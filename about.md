@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+*Hoboken Made* is a curation of products and their creators.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Open source: http://github.com/hobokenmade
+* Get listed: mailto:team@hobokenmade.org
