@@ -164,7 +164,7 @@ table {
  * ============================================== */
 .site-header {
   min-height: 450px;
-  background-color: #00B2EE;
+  background-color: #67A3BD;
   background-image: url("");
   background-size: cover;
   background-position: center -170px;
@@ -179,7 +179,7 @@ table {
 
 .site-header h1 {
   display: block;
-  font-size: 80px !important;
+  font-size: 70px !important;
   line-height: 80px;
   letter-spacing: 3px;
   text-align: center;
