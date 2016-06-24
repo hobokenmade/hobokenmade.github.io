@@ -2,7 +2,6 @@
 title: Hoboken Made
 email: team@hobokenmade.org
 description: > # this means to ignore newlines until "baseurl:"
-  Hoboken Made
 baseurl: ""
 url: "http://hobokenmade.github.io"
 twitter_username: hobokenmade
