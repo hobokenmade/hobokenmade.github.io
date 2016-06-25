@@ -1,2 +1,2 @@
-# hobokenmade.github.io
-The official website
+# Hoboken Made
+The official home of http://hobokenmade.org
